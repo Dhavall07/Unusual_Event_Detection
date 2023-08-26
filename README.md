@@ -18,17 +18,23 @@ of hand.
 ### The below image represents the admin dashboard :
 
 
-![Screenshot (691)](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/9b9afcf4-7870-42bc-b308-6adb05390027)
+
+![Screenshot (691)](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/4ca109a5-825b-4463-8ecf-acbe107e1ee2)
+
 
 ### Events are saved to the portal as below :
 
 
-![Screenshot (692)](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/92a19197-3b04-4491-81eb-d0afa9f43129)
+
+![Screenshot (692)](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/70c0c1d9-bf7e-4f5c-ae32-973055c0184e)
+
 
 ### Detailed representation of the record :
 
 
-![2](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/fb245c7a-6bb0-4c65-89bd-6535b689703a)
+
+![2](https://github.com/Dhavall07/Unusual_Event_Detection/assets/53564877/0dfd9940-626f-4ce1-80e0-29ae733e2a5e)
+
 
 
 
