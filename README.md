@@ -43,7 +43,7 @@ The applications of the Intelligent Surveillance System can encompass more actio
 theft identification, arson, stampede, natural disasters, and many more. The intensity of car
 damages can also be recorded based on the kind of damage done to the vehicle.
 
-#### The repository does not ccontain react code
+#### The repository does not ccontain react(Frontend) code
 
 
 
