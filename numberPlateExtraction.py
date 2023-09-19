@@ -5,7 +5,7 @@ import pytesseract
 
 def getNumberPlate():
     pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
-    frameLocation = 'H:/Modifications_SS/number_plates/plate.jpg'
+    frameLocation = '***.jpg'
     img = cv2.imread(frameLocation,cv2.IMREAD_COLOR)
     img = cv2.resize(img, (600,400) )
     
