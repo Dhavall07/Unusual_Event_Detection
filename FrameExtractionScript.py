@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May  2 20:17:45 2021
 
-@author: RUTUJA
 """
 
 import cv2
@@ -21,8 +19,8 @@ def extractFramesFromVideo():
     while framesTrue:
         framesTrue, frame = video.read()
         if(framesTrue):
-            cv2.imwrite('H:/Modifications_SS/frames/frame.jpg', frame)
-            cv2.imwrite('H:/Modifications_SS/number_plates/plate.jpg', frame)
+            cv2.imwrite('***.jpg', frame)
+            cv2.imwrite('***.jpg', frame)
             for i in range(20):
                 framesTrue, frame = video.read()
             print(frameNo)
@@ -33,7 +31,7 @@ def extractFramesFromVideo():
                 listNP = []
                 for j in range(5):
                     if(framesTrue):
-                        cv2.imwrite('H:/Modifications_SS/number_plates/plate.jpg', frame)
+                        cv2.imwrite('***.jpg', frame)
                         numberPlate = numberPlateExtraction.getNumberPlate()
                         if(numberPlate != "None"):
                             print("Number Plate:",numberPlate)
